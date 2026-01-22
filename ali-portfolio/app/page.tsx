@@ -112,7 +112,7 @@ const PortfolioWebsite = () => {
         id="home"
         className="min-h-screen flex items-center justify-center relative"
         style={{
-          backgroundImage: 'url(https://images.unsplash.com/photo-1451187580459-43490279c0fa?w=1920&q=80)',
+          backgroundImage: '',
           backgroundSize: 'cover',
           backgroundPosition: 'center',
           backgroundAttachment: 'fixed',
@@ -167,7 +167,7 @@ const PortfolioWebsite = () => {
         <div className="max-w-6xl mx-auto px-4 py-20">
           <h2 className="text-4xl font-bold text-gray-800 mb-8 text-center">Skills</h2>
           <p className="text-lg text-gray-600 text-center">
-            This is the Skills section. Display your technical skills here.
+            This is the Skills section.
           </p>
         </div>
       </section>
@@ -177,7 +177,7 @@ const PortfolioWebsite = () => {
         <div className="max-w-6xl mx-auto px-4 py-20">
           <h2 className="text-4xl font-bold text-gray-800 mb-8 text-center">Projects</h2>
           <p className="text-lg text-gray-600 text-center">
-            This is the Projects section. Showcase your work here.
+            This is the Projects section.
           </p>
         </div>
       </section>
@@ -187,7 +187,7 @@ const PortfolioWebsite = () => {
         <div className="max-w-4xl mx-auto px-4 py-20">
           <h2 className="text-4xl font-bold text-gray-800 mb-8 text-center">Contact</h2>
           <p className="text-lg text-gray-600 text-center">
-            This is the Contact section. Add your contact form here.
+            This is the Contact section.
           </p>
         </div>
       </section>
